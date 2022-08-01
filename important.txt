@@ -1,0 +1,3 @@
+api link : https://api.quotable.io/random
+
+Fetch : No need any library to fetching data using fetch 
